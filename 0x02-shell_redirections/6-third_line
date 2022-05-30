@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 https://en.wikipedia.org/wiki/Alea_iacta_est
+head -3 iacta | tail +3
